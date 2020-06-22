@@ -1,0 +1,16 @@
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\MyFirstAjsApp.dll.config
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\MyFirstAjsApp.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\MyFirstAjsApp.pdb
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Helpers.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Razor.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.Deployment.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.Razor.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Razor.xml
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.xml
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.Deployment.xml
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Webpages.Razor.xml
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\bin\System.Web.Helpers.xml
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\obj\Debug\MyFirstAjsApp.csprojResolveAssemblyReference.cache
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\obj\Debug\MyFirstAjsApp.dll
+I:\Video Tutorial\AngularJS\SourceCode\MyFirstAjsApp\MyFirstAjsApp\obj\Debug\MyFirstAjsApp.pdb
